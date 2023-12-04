@@ -13,6 +13,10 @@ name = "day1"
 name = "day2"
 "src" = "./src/bin/day2/main.rs"
 
+[[bin]]
+name = "day3"
+"src" = "./src/bin/day3/main.rs"
+
 [dependencies]
 regex = "1"
 once_cell = "1.18" 
