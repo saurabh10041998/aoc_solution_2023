@@ -29,6 +29,9 @@ name = "day7"
 [[bin]]
 name = "day8"
 
+[[bin]]
+name = "day9"
+
 [dependencies]
 regex = "1"
 once_cell = "1.18"
